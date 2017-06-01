@@ -1,5 +1,5 @@
 # automation-script
-locust-script.sh is used to setup machine for testing purpose.
+locust-script.sh is used to setup machine for testing purpose.                                           
 How to run:
 sudo bash locust-script.sh laptop-username
 
