@@ -1,1 +1,1 @@
-# automa
+# automation-script
